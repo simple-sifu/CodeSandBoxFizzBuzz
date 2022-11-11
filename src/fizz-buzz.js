@@ -1,4 +1,4 @@
 export default class FizzBuzz {
-  // generate = (start, end) => {
-  // };
+  generate = (start, end) => {
+  };
 }
